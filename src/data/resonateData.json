@@ -1,0 +1,24 @@
+{
+    "tiles":[
+        {   "id":"1",
+            "value":"A",
+            "combo":"shift s"
+        },
+        {
+            "id":"2",
+            "value":"B",
+            "combo":"shift s"
+        },
+        {
+            "id":"3",
+            "value":"C",
+            "combo":"shift s"
+        },
+        {
+            "id":"4",
+            "value":"D",
+            "combo":"shift s"
+        }
+    ]
+    
+}
